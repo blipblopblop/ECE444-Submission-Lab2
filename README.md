@@ -34,6 +34,8 @@ Part 2:
 
 Part 3:
 
+<img width="1230" alt="Screen Shot 2022-09-23 at 2 59 34 PM" src="https://user-images.githubusercontent.com/62577020/192038623-7a5a51ea-111b-42b1-8c01-f97f803191a0.png">
+
 Part 4:
 
 Part 5:
