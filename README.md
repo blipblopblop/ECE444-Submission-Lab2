@@ -7,6 +7,9 @@ Activity 1 (1 point): Installation
 Activity 2 (3 point): Creating a repo in your own GitHub account and replay 
 the textbook example
 
+<img width="927" alt="2-2" src="https://user-images.githubusercontent.com/62577020/191983068-138cdb60-244e-4b2e-892d-ce2bb2118acc.png">
+
+<img width="425" alt="2-2shot" src="https://user-images.githubusercontent.com/62577020/191983097-ee78e976-bcb8-4764-a354-b4cc6b730a5e.png">
 
 Activity 3 (3 point): Replay and modify example in Chapter 3 
 
