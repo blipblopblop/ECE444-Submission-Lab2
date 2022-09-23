@@ -44,4 +44,9 @@ Part 5:
 
 <img width="597" alt="Screen Shot 2022-09-23 at 2 41 49 PM" src="https://user-images.githubusercontent.com/62577020/192035978-cecfd202-a5ee-4bd3-90d5-ce683501c9a3.png">
 
+Part 6:
+<img width="980" alt="Screen Shot 2022-09-23 at 5 31 58 PM" src="https://user-images.githubusercontent.com/62577020/192059603-53d094e8-5c56-4289-b1d3-2a17fe48f211.png">
+
+<img width="710" alt="Screen Shot 2022-09-23 at 5 32 08 PM" src="https://user-images.githubusercontent.com/62577020/192059626-5c98b81a-475d-47f7-8b7d-d0d2f484bff8.png">
+
 
