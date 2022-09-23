@@ -15,9 +15,9 @@ the textbook example
 
 Activity 3 (3 point): Replay and modify example in Chapter 3 
 
-<img width="757" alt="3-1a" src="https://user-images.githubusercontent.com/62577020/191987818-927dd9c1-3755-4748-9b6e-12171a400f47.png">
 <img width="761" alt="3-1b" src="https://user-images.githubusercontent.com/62577020/191987855-b8fc7e25-27d4-48c4-85d1-27ecd0a845de.png">
-<img width="761" alt="3-1b" src="https://user-images.githubusercontent.com/62577020/191987891-650dfa93-d3c4-4482-9697-dca8ec80dd22.png">
+<img width="757" alt="3-1a" src="https://user-images.githubusercontent.com/62577020/191987818-927dd9c1-3755-4748-9b6e-12171a400f47.png">
+<img width="857" alt="3-1c" src="https://user-images.githubusercontent.com/62577020/191988140-1ee8cc5d-d978-4124-bb79-c609b2d33401.png">
 <img width="583" alt="3-1shot" src="https://user-images.githubusercontent.com/62577020/191987923-78cfc239-7538-4b23-995f-b8c48249fb7d.png">
 
 Activity 4 (3 point): Replay and modify example in Chapter 4
