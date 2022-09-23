@@ -32,3 +32,12 @@ Part 2:
 
 <img width="1273" alt="Screen Shot 2022-09-23 at 11 42 57 AM" src="https://user-images.githubusercontent.com/62577020/192033248-44a7d849-3773-4f1b-aaf1-749198774ebe.png">
 
+Part 3:
+
+Part 4:
+
+Part 5:
+
+<img width="597" alt="Screen Shot 2022-09-23 at 2 41 49 PM" src="https://user-images.githubusercontent.com/62577020/192035978-cecfd202-a5ee-4bd3-90d5-ce683501c9a3.png">
+
+
