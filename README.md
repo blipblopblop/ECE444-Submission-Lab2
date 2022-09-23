@@ -1,5 +1,7 @@
 # ECE444-F2022-Lab2
 
+PLEASE READ: please refer to this repo https://github.com/blipblopblop/ECE444-F2022-Lab2
+
 Activity 1 (1 point): Installation 
 
 <img width="514" alt="act1First" src="https://user-images.githubusercontent.com/62577020/191976298-7047d9ee-4330-441d-8c11-5cab11e572e6.png">
