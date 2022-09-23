@@ -38,6 +38,8 @@ Part 3:
 
 Part 4:
 
+<img width="1055" alt="Screen Shot 2022-09-23 at 5 29 59 PM" src="https://user-images.githubusercontent.com/62577020/192059332-19056d39-bd8b-40a7-aad0-f786d6a163e1.png">
+
 Part 5:
 
 <img width="597" alt="Screen Shot 2022-09-23 at 2 41 49 PM" src="https://user-images.githubusercontent.com/62577020/192035978-cecfd202-a5ee-4bd3-90d5-ce683501c9a3.png">
