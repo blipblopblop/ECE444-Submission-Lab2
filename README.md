@@ -1,5 +1,3 @@
-Fatima Siddiqui - This is a clone of this repo is a clone of https://github.com/miguelgrinberg/flasky
-
 # ECE444-F2022-Lab2
 
 Activity 1 (1 point): Installation 
