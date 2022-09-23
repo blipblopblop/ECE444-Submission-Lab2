@@ -21,6 +21,7 @@ Activity 3 (3 point): Replay and modify example in Chapter 3
 <img width="583" alt="3-1shot" src="https://user-images.githubusercontent.com/62577020/191987923-78cfc239-7538-4b23-995f-b8c48249fb7d.png">
 
 Activity 4 (3 point): Replay and modify example in Chapter 4
+
 Part 1:
 <img width="805" alt="Screen Shot 2022-09-23 at 10 50 43 AM" src="https://user-images.githubusercontent.com/62577020/191989748-bb98067e-cb1b-4585-93a5-74bf005687e8.png">
 <img width="780" alt="Screen Shot 2022-09-23 at 10 52 24 AM" src="https://user-images.githubusercontent.com/62577020/191989910-b3d8e647-bf5f-4482-bac4-3eb2c30ee786.png">
