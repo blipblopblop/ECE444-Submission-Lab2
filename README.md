@@ -29,3 +29,6 @@ Part 1:
 <img width="780" alt="Screen Shot 2022-09-23 at 10 52 24 AM" src="https://user-images.githubusercontent.com/62577020/191989910-b3d8e647-bf5f-4482-bac4-3eb2c30ee786.png">
 
 Part 2:
+
+<img width="1273" alt="Screen Shot 2022-09-23 at 11 42 57 AM" src="https://user-images.githubusercontent.com/62577020/192033248-44a7d849-3773-4f1b-aaf1-749198774ebe.png">
+
